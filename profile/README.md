@@ -6,11 +6,15 @@ We want our project to make more people interested in traditional Indonesian bat
 # Feature
 * Login
 * Register
-* Search
+* Search Batik
+* Search Article
 * Batikpedia
 * Article
-* Batik Recommendation Scanner
-* Bookmark
+* Batik Recommendation
+* Batik Customization
+* Bookmark Batik
+* Bookmark Article
+* Bookmark Batik Customization
 * Setting
 
 # Demo
