@@ -17,6 +17,13 @@ We want our project to make more people interested in traditional Indonesian bat
 * Bookmark Batik Customization
 * Setting
 
+![Screenshot (737)](https://github.com/Baskarya/.github/assets/90132967/3d1cb4c5-8de5-4bc7-b91c-1749fb32889c)
+![Screenshot (738)](https://github.com/Baskarya/.github/assets/90132967/d3dbadd7-b5d5-4685-98f5-e232c057a15a)
+![Screenshot (739)](https://github.com/Baskarya/.github/assets/90132967/e97601df-eede-4b7c-991c-fd4585393341)
+![Screenshot (740)](https://github.com/Baskarya/.github/assets/90132967/f8b2e877-bad3-43ff-a972-1c66a8edc6d1)
+
+
+
 # Demo
 [ToBeAnnounced](https://github.com/Mumtaza15/CH2-PS173-Product-Capstone/tree/main)
 
