@@ -20,17 +20,17 @@ Our main goal of our project team is to create a custom batik shirt that wants t
 * Setting
 
 # Demo
-[ToBeAnnounced](https://github.com/Mumtaza15/CH2-PS173-Product-Capstone/tree/main)
+[Baskarya Demo](https://github.com/Baskarya/BaskaryaApp/releases)
 
 # Product Capstone Team
-| No | Name | Role | Github |
-| --- | --- | --- | --- |
-| 1 | Giga Muhamad Hasan | ML | [gigahasan](https://github.com/gigahasan) |
-| 2 | Putra Jadi Mukti | ML | [ptramukti](https://github.com/putramkti) |
-| 3 | Sinta Murwanti | ML | [SintaMurwanti](https://github.com/SintaMurwanti) |
-| 4 | Daniel Hasiando Sinaga | CC | [Routinee66](https://github.com/Routinee66) |
-| 5 | Hidayat Nur Ali Razzaq `Project Manager` | CC | [hidrozz](https://github.com/hidrozz) |
-| 6 | Ahmad Fatha Mumtaza | MD | [Mumtaza15](https://github.com/Mumtaza15) |
-| 7 | M. Fajar Al Farizi | MD | [MochamadFajarAlFarizi](https://github.com/MochamadFajarAlFarizi) |
+| No | Name | Role | Github | University |
+| --- | --- | --- | --- | --- |
+| 1 | Giga Muhamad Hasan | ML | [gigahasan](https://github.com/gigahasan) | Universitas Ahmad Dahlan Yogyakarta |
+| 2 | Putra Jadi Mukti | ML | [ptramukti](https://github.com/putramkti) | Universitas Pembangunan Nasional Veteran Yogyakarta |
+| 3 | Sinta Murwanti | ML | [SintaMurwanti](https://github.com/SintaMurwanti) | Universitas Pembangunan Nasional Veteran Yogyakarta |
+| 4 | Daniel Hasiando Sinaga | CC | [Routinee66](https://github.com/Routinee66) | Universitas Pembangunan Nasional Veteran Yogyakarta |
+| 5 | Hidayat Nur Ali Razzaq `Project Manager` | CC | [hidrozz](https://github.com/hidrozz) | Universitas Gadjah Mada |
+| 6 | Ahmad Fatha Mumtaza | MD | [Mumtaza15](https://github.com/Mumtaza15) | Universitas Gadjah Mada |
+| 7 | M. Fajar Al Farizi | MD | [MochamadFajarAlFarizi](https://github.com/MochamadFajarAlFarizi) | STMIK Mardira Indonesia |
 
 
